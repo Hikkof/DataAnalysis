@@ -1,4 +1,4 @@
 # DataAnalysis
-This repository contains machine learning models trained as a part of of collage projects in year 2022 as a part of "Wprowadzenie do analityki danych".
+This repository contains machine learning models trained as a part of collage projects in 2022 as a part of "Wprowadzenie do analityki danych".
 
-Not all of them are currently uploaded.
+Due to a PC malfunction shortly before and during the work on the third project, I am not able to upload it.
